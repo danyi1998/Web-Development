@@ -1,7 +1,6 @@
-Worked in a small team of 4 to build a web app from scratch. All of our members had zero experience in web development prior to this project. 
+# Schoogle-2006_project-
 
-This project involves both design and implementation. 
+customValidators, newUser, and flaskForm, verifyEmailAndPassword modules should be placed in python34/lib/site-packages or wherever the rest of the modules that can be imported are
+found. 
 
-Design: Functional and non-functional requirements, use case model, initial user interface design, dialog map, system architecture, class diagrams and sequence diagrams.
-
-Implementation: source code and testing.
+read_db.py, getDistance.py, write_existingdb.py and userInfo(use userInformation instead) database are useless. 
